@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1360346057 source:c:\users\ma. leslie\desktop\project_baterina_lim\project.cpp
+	"Project.h"
+	<iostream>
+
+1360344654 c:\users\ma. leslie\desktop\project_baterina_lim\project.h
+
+1360344920 source:c:\users\ma. leslie\desktop\project_baterina_lim\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Project.h"
+
+1360344920 source:d:\g\files\coe\second sem\project_baterina_lim\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Project.h"
+
+1360344654 d:\g\files\coe\second sem\project_baterina_lim\project.h
+
+1360346057 source:d:\g\files\coe\second sem\project_baterina_lim\project.cpp
+	"Project.h"
+	<iostream>
+
