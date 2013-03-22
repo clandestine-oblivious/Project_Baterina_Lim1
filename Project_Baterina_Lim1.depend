@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1362232297 source:c:\users\ma. leslie\desktop\new folder\project_baterina_lim_final\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"string.h"
+	"Project.h"
+
+1362232297 c:\users\ma. leslie\desktop\new folder\project_baterina_lim_final\project.h
+
+1362231821 source:c:\users\ma. leslie\desktop\new folder\project_baterina_lim_final\project.cpp
+	"Project.h"
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cmath>
+	<math.h>
+	<vector>
+	"stdio.h"
+	<fstream>
+
